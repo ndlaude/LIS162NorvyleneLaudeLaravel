@@ -1,0 +1,2 @@
+- [x] Update cancel button condition in resources/views/appointments/index.blade.php to hide if status is 'Cancelled' or 'Declined'
+- [x] Update clearRecords method in app/Http/Controllers/AppointmentController.php to include 'Cancelled' status
